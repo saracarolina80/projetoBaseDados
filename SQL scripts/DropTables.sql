@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS Otica_Pagamento;
+DROP TABLE IF EXISTS Otica_Fatura;
+DROP TABLE IF EXISTS Otica_Receita;
+DROP TABLE IF EXISTS Otica_Consulta;
+DROP TABLE IF EXISTS Otica_Fornecido_Por;
+DROP TABLE IF EXISTS Otica_Vendido_Ao;
+DROP TABLE IF EXISTS Otica_Fornecedor;
+DROP TABLE IF EXISTS Otica_Stock;
+DROP TABLE IF EXISTS Otica_Produto;
+DROP TABLE IF EXISTS Otica_Doutor;
+DROP TABLE IF EXISTS Otica_Login;
+DROP TABLE IF EXISTS Otica_Recepcionista;
+DROP TABLE IF EXISTS Otica_Cliente;
+DROP TABLE IF EXISTS Otica_Funcionario;
+DROP TABLE IF EXISTS Otica_Pessoa;

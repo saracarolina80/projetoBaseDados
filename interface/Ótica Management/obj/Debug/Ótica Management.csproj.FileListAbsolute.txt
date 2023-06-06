@@ -1,0 +1,118 @@
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica Management.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica_Management.MainPage.resources
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica_Management.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica Management.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica Management.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\bin\Debug\Ótica Management.exe.config
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\bin\Debug\Ótica Management.exe
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\bin\Debug\Ótica Management.pdb
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica Management.exe
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica Management.pdb
+C:\Users\Utilizador\Desktop\4ano-2semestre\BD\Projeto\interface\Ótica Management\obj\Debug\Ótica_Management.registoCliente.resources
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.exe.config
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.exe
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.pdb
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.MainPage.resources
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoCliente.resources
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.exe
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.pdb
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.infoCliente.resources
+C:\Users\Utilizador\Desktop\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.ClientePerfil.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.exe.config
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.ClientePerfil.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.infoCliente.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.MainPage.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoCliente.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoDoutor.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Doutor.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoFuncionario.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Consulta.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.exe.config
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.ClientePerfil.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Consulta.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Doutor.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoFuncionario.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.infoCliente.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.MainPage.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoCliente.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoDoutor.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Receita.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.AddProduto.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.AtualizarInfo.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.MarcarConsulta.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Produtos.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.stock.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.fornecedor.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.FornecedorProduto.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoFornecedor.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Pedido.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.CheckPedidos.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Cliente.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Compra.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Recibos.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.NumeroPedidos.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.GastoProdutos.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.FuncPerfil.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Login.resources
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\universidade\4 ano\bd\projeto\projeto\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.MainRecepcionista.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.exe.config
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.exe
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\bin\Debug\Ótica Management.pdb
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.AddProduto.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.AtualizarInfo.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.CheckPedidos.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Cliente.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.ClientePerfil.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Compra.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Consulta.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Doutor.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.fornecedor.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.FornecedorProduto.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.FuncPerfil.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.GastoProdutos.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Login.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.MainRecepcionista.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.NumeroPedidos.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Pedido.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Recibos.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoFornecedor.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.stock.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.MarcarConsulta.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Produtos.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Receita.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoFuncionario.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.infoCliente.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.MainPage.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoCliente.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica_Management.registoDoutor.resources
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.exe
+C:\Users\Utilizador\Desktop\ENTREGA\projeto_BD\interface\Ótica Management\obj\Debug\Ótica Management.pdb
