@@ -20,6 +20,7 @@ BEGIN
 END;
 
 
+GO
 CREATE FUNCTION CalculateTotalSales (@cliente_cc INT)
 RETURNS FLOAT
 AS
@@ -34,7 +35,7 @@ END
 .
 
 
-
+GO
 CREATE FUNCTION GetTotalProductsSuppliedBySupplier (@fornecedor_nif VARCHAR(20))
 RETURNS INT
 AS
@@ -48,6 +49,8 @@ BEGIN
   RETURN @TotalProducts;
 END
 
+
+GO
 CREATE FUNCTION dbo.GetNomeRecepcionista (@Username VARCHAR(50))
 RETURNS VARCHAR(100)
 AS

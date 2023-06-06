@@ -1,3 +1,4 @@
+GO
 CREATE PROCEDURE InserirCliente
   @CC INT,
   @nome VARCHAR(60),
@@ -24,6 +25,7 @@ BEGIN
 END
 
 
+GO
 CREATE PROCEDURE AgendarConsulta
   @numero_consulta INT,
   @hora TIME,
@@ -39,6 +41,7 @@ BEGIN
 END
 
 
+GO
 CREATE PROCEDURE RegistarVendaProduto
   @cliente_cc INT,
   @produto_id INT,
@@ -67,6 +70,7 @@ BEGIN
 END
 
 
+GO
 CREATE PROCEDURE RegistarPagamentoFatura
   @id INT,
   @data DATE,
@@ -82,7 +86,6 @@ BEGIN
 END
 
 
-DROP PROCEDURE getClientebyCC;
 GO
 CREATE PROCEDURE getClientebyCC
     @CC INT
@@ -95,6 +98,7 @@ BEGIN
 END;
 
 
+GO
 CREATE PROCEDURE AtualizarCliente
     @CC INT,
     @NovoNome VARCHAR(50),
